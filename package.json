@@ -1,0 +1,14 @@
+{
+  "name": "calendar-api",
+  "version": "1.0.0",
+  "description": "simple calendar api for WE ",
+  "main": "app.js",
+  "author": "Ayat Maulana",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel": "^6.23.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3"
+  }
+}
